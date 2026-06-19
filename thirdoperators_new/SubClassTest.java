@@ -2,7 +2,7 @@ package thirdoperators_new;
 
 import tweleve_encapsulation.DemoPerson;
 
-public class SubClassTest {
+public class SubClassTest extends DemoPerson {
      public static void main(String[] args) {
         SubClassTest dp = new SubClassTest();
         System.out.println("Different Package - Sub Class ");

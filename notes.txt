@@ -1310,7 +1310,7 @@ App Development
 
         -> No Issues with public and default 
 
-    -> NOTE : it’s not good practice, to directly allow object to be changed like
+    -> NOTE : it's not good practice, to directly allow object to be changed like
 
         in NewStudent and Teacher  
 
@@ -1495,3 +1495,4 @@ App Development
 
             -> method overriding occurs during rune time
             -> based on parent class implementation, provide new functionality in child class 
+            
